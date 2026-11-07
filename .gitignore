@@ -1,0 +1,9 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Dataset folder
+sign_data/
+
+# Trained model file (if it's large; or you can choose to track it)
+sign_model.p
